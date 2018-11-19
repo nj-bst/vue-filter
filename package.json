@@ -1,0 +1,25 @@
+{
+  "name": "bst-vue-filter",
+  "version": "0.0.1",
+  "description": "vue filters",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nj-bst/vue-filter.git"
+  },
+  "keywords": [
+    "vue",
+    "filter"
+  ],
+  "author": "zhangkai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nj-bst/vue-filter/issues"
+  },
+  "homepage": "https://github.com/nj-bst/vue-filter#readme"
+}
